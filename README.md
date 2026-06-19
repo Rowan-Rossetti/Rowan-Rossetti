@@ -1,4 +1,4 @@
-Bonjour, je suis Rowan Rossetti 👋
+Bonjour, je suis Rowan Rossetti
 
 Développeur web récemment diplômé de l’IFAPME de Liège, je suis passionné par la conception d’applications web modernes, performantes et intuitives.
 
